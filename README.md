@@ -1,2 +1,1 @@
-# ToDo-list
-This is a ToDo List developed using Django.
+This project includes login, register, add task delete task, search task, update task, check status
